@@ -26,7 +26,7 @@ exchange = ccxt.binance({
 # input data for trading
 name = 'Supertrend Engulfing'
 symbol = 'BTCUSDT'
-timeframe = '1m'
+timeframe = '5m'
 usdt_amount = 110
 leverage = 20
 callback_rate = 0.5 # trailing stop
